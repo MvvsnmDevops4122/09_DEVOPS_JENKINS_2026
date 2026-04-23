@@ -22,7 +22,7 @@ It automates the process of building, testing, and deploying applications, makin
 
 ---
 
-## 🔄 Jenkins Workflow
+##  Jenkins Workflow
 
 ```
 GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat → Notifications
@@ -53,18 +53,18 @@ GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat → Notification
 
 ---
 
-## ✅ Advantages of Jenkins for CI/CD
+##  Advantages of Jenkins for CI/CD
 
-* ⚡ Faster development
-* 🐞 Early bug detection
-* 📈 Better code quality
-* 🔄 Easy rollback
-* 👥 Improved collaboration
-* 🚀 Consistent releases
+*  Faster development
+*  Early bug detection
+*  Better code quality
+*  Easy rollback
+*  Improved collaboration
+*  Consistent releases
 
 ---
 
-## 🔍 Jenkins vs Other CI/CD Tools
+##  Jenkins vs Other CI/CD Tools
 
 | Tool           | Feature                |
 | -------------- | ---------------------- |
@@ -77,7 +77,7 @@ GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat → Notification
 
 ---
 
-## 🔁 Continuous Integration (CI)
+##  Continuous Integration (CI)
 
 When a developer updates code in GitHub (SCM), Jenkins immediately detects the change, then:
 
