@@ -138,6 +138,15 @@ Deployment → Auto deploy → Production
 
 ---
 
+##  When to Use a Freestyle Job
+
+* For **simple projects** with fewer stages
+* When doing **manual integrations** with external tools
+* When you **don’t need complex logic**, like what Pipelines provide
+* Ideal for **learning, quick setups, and POCs (proof of concept)**
+
+---
+
 ##  Create Jenkins Job (Freestyle)
 
  1. Go to Jenkins Dashboard → New Item
