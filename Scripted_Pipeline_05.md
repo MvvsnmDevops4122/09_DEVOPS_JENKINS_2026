@@ -198,7 +198,8 @@ node {
     def mavenHome = tool name: 'mvn_3.9.15'
 
     try {
-
+         // START message (must be first)
+        notifyBuild('STARTED')
         stage('checkout') {
             git 'https://github.com/MvvsnmDevops4122/05_DEVOPS_MAVEN-WEBAPPLICATION-PROJECT_2026.git'
         }
