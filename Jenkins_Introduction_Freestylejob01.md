@@ -253,7 +253,7 @@ clean package
   <server>
     <id>nexus</id>
     <username>admin</username>
-    <password>1234</password>
+    <password>****</password>
   </server>
 
 ### Jenkins Goal:
@@ -294,7 +294,7 @@ http://44.201.165.168:8081/repository/jio-snapshot/
 
     Tomcat URL (e.g., http://<ip>:8080)
 
-    Jenkins credentials (admin/password)
+    Jenkins credentials (admin/*****)
 
  4. Save and Build Now
 ---
