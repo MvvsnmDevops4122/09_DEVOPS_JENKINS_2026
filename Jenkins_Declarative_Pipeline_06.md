@@ -9,7 +9,7 @@
 
 ## Declarative Pipeline Syntax
 
-
+```
 pipeline {
     agent any
 
@@ -21,9 +21,8 @@ pipeline {
         }
     }
 }
-
+```
 ---
-
 ##  Declarative Pipeline Example
 
 ```groovy
