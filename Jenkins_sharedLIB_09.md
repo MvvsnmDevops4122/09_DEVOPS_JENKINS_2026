@@ -95,7 +95,7 @@ Fill details:
 * Name: `JENKINS_SHARED_LIBRARY`
 * Default version: `main`
 * Retrieval method: Git
-* Repository URL: GitHub repo
+* Project Repository: https://github.com/MvvsnmDevops4122/10_JENKINS_SHARED_LIBRARY_2026.git  #shareliberay repository url
 * Credentials: Add if private
 
 Save configuration
